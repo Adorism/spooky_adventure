@@ -17,4 +17,6 @@ My next thought was to try a very simple text-based choose-your-own-adventure ga
 
 I'm mostly done with building this, and it is a very simple app. It runs in the browser window in the same way a website would, but you can also package it for use as a desktop app on various operating systems. My next step is to look into a tool called Bulma (a CSS framework) to make a more polished UI for the desktop.
 
+![Choose Your Own Spooky Adventure Screenshot](media/spooky-adventure.png)
+
 
