@@ -20,3 +20,4 @@ I'm mostly done with building this, and it is a very simple app. It runs in the 
 ![Choose Your Own Spooky Adventure Screenshot](media/spooky-adventure.png)
 
 
+Also, use Electron Forge for packaging. https://www.electronjs.org/docs/tutorial/quick-start
