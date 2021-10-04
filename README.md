@@ -21,3 +21,5 @@ I'm mostly done with building this, and it is a very simple app. It runs in the 
 
 
 Also, use Electron Forge for packaging. https://www.electronjs.org/docs/tutorial/quick-start
+
+One more note: On troubleshooting the command not found issue: https://codefather.tech/blog/linux-command-not-found/
