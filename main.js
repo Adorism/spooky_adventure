@@ -11,7 +11,7 @@ app.whenReady().then(()=> {
     })
 
     //load a webpage
-    myWindow.loadFile('index.html')
+    myWindow.loadFile('/myApp/index.html')
 
 });
 
